@@ -1,0 +1,17 @@
+:root{
+    --color-primary:BLUE;
+--color-white:White;
+--color-black:Black;
+--color-red:red;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+padding: 30px 40px;
+
+}
